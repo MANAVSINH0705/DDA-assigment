@@ -14,7 +14,6 @@ public:
             else
                 right = mid - 1;
         }
-// MANAV
         return -1;
     }
 };
